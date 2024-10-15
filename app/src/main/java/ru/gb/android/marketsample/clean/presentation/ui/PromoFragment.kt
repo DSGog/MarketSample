@@ -1,5 +1,6 @@
 package ru.gb.android.marketsample.clean.presentation.ui
 
+
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
